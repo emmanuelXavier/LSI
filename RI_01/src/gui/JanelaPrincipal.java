@@ -53,7 +53,7 @@ public class JanelaPrincipal extends JFrame implements ActionListener {
 
         this.pack();
         this.setSize(new Dimension(1020, 620));
-        //  this.setExtendedState(JFrame.MAXIMIZED_BOTH);
+        //this.setExtendedState(JFrame.MAXIMIZED_BOTH);
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         this.getContentPane().setLayout(new BorderLayout());
 
